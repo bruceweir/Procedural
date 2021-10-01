@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d032ec678b6374c9cba8523cd15bf2, type: 3}
+  m_Name: SingleTower
+  m_EditorClassIdentifier: 
+  buildingSize: {x: 1, y: 1}
+  numberOfStories: 4
+  roofStrategy: {fileID: 11400000, guid: f3624945c39e2734781fea9ee1963cc4, type: 2}
+  wallsStrategy: {fileID: 0}
+  wingsStrategy: {fileID: 0}
+  wingStrategy: {fileID: 0}
+  storyStrategy: {fileID: 0}
+  storiesStrategy: {fileID: 0}
